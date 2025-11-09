@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Taha Yassine Hadded</h1>
 <h3 align="center">A passionate Software Engineer student from Tunisia</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tahayassinehadded" alt="tahayassinehadded" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Taha-Yassine-Hadded" alt="tahayassinehadded" /></a> </p>
 
 - 🌱 I’m currently learning **NestJs, NodeJs, Docker.**
 
