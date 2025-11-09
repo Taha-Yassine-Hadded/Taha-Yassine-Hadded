@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **yessinhadded99@gmail.com**
 
-- 🌐 Check out my portfolio: **[https://portfolio-taha-yassine-hadded.vercel.app(https://portfolio-taha-yassine-hadded.vercel.app/)]**
+- 🌐 Check out my portfolio: **[[https://portfolio-taha-yassine-hadded.vercel.app](https://portfolio-taha-yassine-hadded.vercel.app/)]**
 
 - ⚡ Fun fact **I love Dogs**
 
