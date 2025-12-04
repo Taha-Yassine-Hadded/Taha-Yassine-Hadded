@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Taha-Yassine-Hadded" alt="tahayassinehadded" /></a> </p>
 
-- 🌱 I’m currently learning **NestJs, Docker**
+- 🌱 I’m currently learning **Next.Js, LLMS**
 
 - 💬 Ask me about **Angular, Nodejs, Reactjs, SpringBoot and Symfony**
 
